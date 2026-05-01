@@ -9,7 +9,7 @@ Runs on an **e2-micro** instance under the **Always Free** tier.
 
 Click the button below to open this project directly in Google Cloud Shell:
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME&cloudshell_tutorial=README.md&cloudshell_open_in_editor=terraform.tfvars&cloudshell_workspace=.)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/danb001/gcproject1&cloudshell_tutorial=README.md&cloudshell_open_in_editor=terraform.tfvars&cloudshell_workspace=.)
 
 > **Before the button works:** Push this project to a public GitHub repo and replace `YOUR_GITHUB_USERNAME/YOUR_REPO_NAME` in the URL above.
 
