@@ -37,7 +37,7 @@ Click the button below to open this project directly in Google Cloud Shell:
 
 2. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/danb001/gcproject1.git
    cd YOUR_REPO_NAME
    ```
 
